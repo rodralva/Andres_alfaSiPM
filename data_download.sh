@@ -1,0 +1,1 @@
+scp pcae146:/pnfs/ciemat.es/data/neutrinos/Eficiencia/GAr_Julio/ROOT/21_07_2022/run22_ch1.root .
